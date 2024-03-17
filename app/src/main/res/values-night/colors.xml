@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="operators">#FFFF9500</color>
+    <color name="numbers">#FFFFFFFF</color>
+    <color name="background">#FF000000</color>
+</resources>
